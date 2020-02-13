@@ -8,6 +8,10 @@
 <img src="./public/assets/gif/it-logger.gif">
 </div>
 
+## View the demo
+
+<a href="https://it-logger-app.herokuapp.com/">It Logger</a>
+
 ## Description
 
 I bought Brad Traversy's course to do some practise by building a project. And I had great time with the project. This was the last project of the couse. Brad built this project with json server package but I built this with NodeJS and MongoDB and React. And we also used Redux and redux-thunk with this project
